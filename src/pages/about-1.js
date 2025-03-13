@@ -9,7 +9,7 @@ import Footer from "../components/_App/Footer"
 import PageBanner from "../components/Common/PageBanner"
 
 import AboutOne from "../images/about-one.png"
-
+ 
 const AboutUsPage = () => (
   <Layout>
     <Navbar />
